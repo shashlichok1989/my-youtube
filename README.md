@@ -5,4 +5,4 @@
 - HTML, 
 - CSS, 
 - Normalize.css, 
-- SVG spreact
+- SVG sprite
