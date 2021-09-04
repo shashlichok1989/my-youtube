@@ -7,3 +7,6 @@
 - Normalize.css, 
 - SVG sprite
 - Swiper JS
+
+
+https://shashlichok1989.github.io/my-youtube/
